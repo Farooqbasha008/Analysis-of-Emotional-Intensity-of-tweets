@@ -29,3 +29,5 @@ This repository contains notebooks and datasets for the analysis of emotional in
 5.  Upload the files in any of the notebooks and run the cells to execute the model.
 
    ## Note : Make sure you have installed the requirements.txt in the notebooks.
+
+Feel free to contribute and improve this model by submitting issues or pull requests.
